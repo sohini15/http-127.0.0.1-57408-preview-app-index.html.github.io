@@ -1,5 +1,1 @@
-## Repsonsive Website - HTML CSS Javascript
-##### By Team Ode to CodeSOHINI GUHA (ROLL NO: - 18700120083)
-POBITRA DOWARI (ROLL NO: - 18700120061)
-SUDIPTA MAITY (ROLL NO: - 18700120075)
-SHILPI  UPADHYAY(ROLL NO: - 18700120068)
+## Responsive Website - Bootstrap HTML CSS Javascript ##
